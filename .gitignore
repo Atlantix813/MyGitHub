@@ -1,0 +1,6 @@
+venv
+__pycache__
+www/log
+config/local.conf
+config/product.conf
+.idea
